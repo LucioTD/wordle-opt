@@ -1,4 +1,15 @@
-# wordle-opt
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner-dark.svg">
+    <img src="docs/assets/banner.svg" alt="wordle-opt: finds the best Wordle opener by exhaustive search" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LucioTD/wordle-opt/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/LucioTD/wordle-opt/ci.yml?branch=main&label=ci&style=flat-square&labelColor=060606" alt="CI status"></a>
+  <img src="https://img.shields.io/badge/rust-2024-1254c6?style=flat-square&labelColor=060606&logo=rust" alt="Rust 2024 edition">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-3a3a3a?style=flat-square&labelColor=060606" alt="MIT license"></a>
+</p>
 
 Finds the best Wordle first and second guesses by computation, not folklore.
 
