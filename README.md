@@ -48,3 +48,7 @@ On CachyOS: `./run_all.sh full`.
 - Pair search: exhaustive over all 110M unordered pairs, pruning only with a proven upper bound.
 - Tree search: `--beam 0` considers every allowed guess at every node. Branch and bound uses admissible lower bounds only. With `--beam K`, big nodes keep the top K guesses (labeled "bK" in results), small nodes are always exhaustive.
 - Hard mode: `--hard` on any tree command. Guesses must keep the last row's greens in place and reuse its yellow letters (NYT client rule). `simulate` counts rule violations for hard trees.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
