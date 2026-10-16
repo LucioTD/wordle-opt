@@ -1,0 +1,4 @@
+# Tune for the CPU you build on (AVX2/AVX-512 on Zen 4). Remove if you copy the
+# binary to a different machine.
+[build]
+rustflags = ["-C", "target-cpu=native"]

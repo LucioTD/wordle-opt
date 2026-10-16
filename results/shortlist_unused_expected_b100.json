@@ -1,0 +1,512 @@
+[
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.903225806451613,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8344086021505376,
+      "p_le3": 0.9311827956989247,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 77,
+        "3": 356,
+        "4": 32,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "sater",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 21,
+    "second": null,
+    "seconds": 0.0202864,
+    "total_guesses": 1350
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.92258064516129,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8408602150537634,
+      "p_le3": 0.9161290322580645,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 1,
+        "2": 73,
+        "3": 352,
+        "4": 39,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "saner",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 22,
+    "second": null,
+    "seconds": 0.0191946,
+    "total_guesses": 1359
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9505376344086023,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8559139784946237,
+      "p_le3": 0.9053763440860215,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 67,
+        "3": 354,
+        "4": 44,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "raise",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 24,
+    "second": null,
+    "seconds": 0.0332352,
+    "total_guesses": 1372
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9204301075268817,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8258064516129032,
+      "p_le3": 0.9053763440860215,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 81,
+        "3": 340,
+        "4": 44,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "salet",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 20,
+    "second": null,
+    "seconds": 0.0280451,
+    "total_guesses": 1358
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.924731182795699,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8473118279569892,
+      "p_le3": 0.9225806451612903,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 71,
+        "3": 358,
+        "4": 36,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "taser",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 24,
+    "second": null,
+    "seconds": 0.0344168,
+    "total_guesses": 1360
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9483870967741934,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.864516129032258,
+      "p_le3": 0.9161290322580645,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 63,
+        "3": 363,
+        "4": 39,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "slier",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 26,
+    "second": null,
+    "seconds": 0.0204589,
+    "total_guesses": 1371
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9956989247311827,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8774193548387097,
+      "p_le3": 0.8817204301075269,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 57,
+        "3": 353,
+        "4": 55,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "seria",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 27,
+    "second": null,
+    "seconds": 0.0214321,
+    "total_guesses": 1393
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9612903225806453,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.886021505376344,
+      "p_le3": 0.9247311827956989,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 53,
+        "3": 377,
+        "4": 35,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "sayer",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 28,
+    "second": null,
+    "seconds": 0.0408168,
+    "total_guesses": 1377
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9827956989247313,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8774193548387097,
+      "p_le3": 0.8946236559139785,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 57,
+        "3": 359,
+        "4": 49,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "aesir",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 25,
+    "second": null,
+    "seconds": 0.0249844,
+    "total_guesses": 1387
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 3.0344086021505374,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8946236559139785,
+      "p_le3": 0.8602150537634409,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 49,
+        "3": 351,
+        "4": 65,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "naieo",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 23,
+    "second": null,
+    "seconds": 0.0209655,
+    "total_guesses": 1411
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 3.0279569892473117,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.886021505376344,
+      "p_le3": 0.8580645161290322,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 53,
+        "3": 346,
+        "4": 66,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "aiery",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 21,
+    "second": null,
+    "seconds": 0.0287538,
+    "total_guesses": 1408
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 3.0193548387096776,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8838709677419355,
+      "p_le3": 0.864516129032258,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 54,
+        "3": 348,
+        "4": 63,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "ayrie",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 20,
+    "second": null,
+    "seconds": 0.0381559,
+    "total_guesses": 1404
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.933333333333333,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.843010752688172,
+      "p_le3": 0.9096774193548387,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 73,
+        "3": 350,
+        "4": 42,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "tarse",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 22,
+    "second": null,
+    "seconds": 0.0133049,
+    "total_guesses": 1364
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9483870967741934,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8516129032258064,
+      "p_le3": 0.9032258064516129,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 69,
+        "3": 351,
+        "4": 45,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "raile",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 22,
+    "second": null,
+    "seconds": 0.0100586,
+    "total_guesses": 1371
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9419354838709677,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8666666666666667,
+      "p_le3": 0.9247311827956989,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 62,
+        "3": 368,
+        "4": 35,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "siler",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 26,
+    "second": null,
+    "seconds": 0.0173951,
+    "total_guesses": 1368
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.9526881720430107,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.875268817204301,
+      "p_le3": 0.9225806451612903,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 58,
+        "3": 371,
+        "4": 36,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "laser",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 26,
+    "second": null,
+    "seconds": 0.0327437,
+    "total_guesses": 1373
+  },
+  {
+    "beam": 100,
+    "dist": {
+      "avg": 2.935483870967742,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8559139784946237,
+      "p_le3": 0.9204301075268817,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 67,
+        "3": 361,
+        "4": 37,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "taler",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 23,
+    "second": null,
+    "seconds": 0.0157786,
+    "total_guesses": 1365
+  }
+]

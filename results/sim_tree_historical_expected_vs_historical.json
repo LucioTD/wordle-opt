@@ -1,0 +1,23 @@
+{
+  "against": "historical",
+  "dist": {
+    "avg": 3.3439958049292082,
+    "fail": 0,
+    "n": 1907,
+    "p_3or4": 0.9517566858940745,
+    "p_le3": 0.6208704771893025,
+    "p_le4": 0.9931830099632931,
+    "solved_in": {
+      "1": 1,
+      "2": 78,
+      "3": 1105,
+      "4": 710,
+      "5": 13,
+      "6": 0
+    }
+  },
+  "hard": false,
+  "hard_violations": 0,
+  "misses": [],
+  "tree": "tree_historical_expected.json"
+}

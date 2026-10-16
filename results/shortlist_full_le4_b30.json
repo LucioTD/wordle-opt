@@ -1,0 +1,992 @@
+[
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.430860033726813,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9633220910623946,
+      "p_le3": 0.5531197301854974,
+      "p_le4": 0.9903035413153457,
+      "solved_in": {
+        "1": 0,
+        "2": 64,
+        "3": 1248,
+        "4": 1037,
+        "5": 20,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "tarse",
+    "hard": false,
+    "late_answers": 23,
+    "mode": "Le4",
+    "nodes": 253,
+    "second": null,
+    "seconds": 0.4486727,
+    "total_guesses": 8138
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4662731871838113,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9603709949409781,
+      "p_le3": 0.521079258010118,
+      "p_le4": 0.9873524451939292,
+      "solved_in": {
+        "1": 0,
+        "2": 64,
+        "3": 1172,
+        "4": 1106,
+        "5": 26,
+        "6": 4
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "tiare",
+    "hard": false,
+    "late_answers": 30,
+    "mode": "Le4",
+    "nodes": 287,
+    "second": null,
+    "seconds": 1.0024882,
+    "total_guesses": 8222
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4654300168634062,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9607925801011804,
+      "p_le3": 0.5333052276559865,
+      "p_le4": 0.9814502529510961,
+      "solved_in": {
+        "1": 0,
+        "2": 49,
+        "3": 1216,
+        "4": 1063,
+        "5": 42,
+        "6": 2
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "soare",
+    "hard": false,
+    "late_answers": 44,
+    "mode": "Le4",
+    "nodes": 311,
+    "second": null,
+    "seconds": 0.5235935,
+    "total_guesses": 8220
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.47681281618887,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9658516020236088,
+      "p_le3": 0.5113827993254637,
+      "p_le4": 0.989460370994941,
+      "solved_in": {
+        "1": 0,
+        "2": 56,
+        "3": 1157,
+        "4": 1134,
+        "5": 22,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "roate",
+    "hard": false,
+    "late_answers": 25,
+    "mode": "Le4",
+    "nodes": 272,
+    "second": null,
+    "seconds": 0.4936103,
+    "total_guesses": 8247
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.488195615514334,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9616357504215851,
+      "p_le3": 0.5042158516020236,
+      "p_le4": 0.984822934232715,
+      "solved_in": {
+        "1": 1,
+        "2": 54,
+        "3": 1141,
+        "4": 1140,
+        "5": 34,
+        "6": 2
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "raise",
+    "hard": false,
+    "late_answers": 36,
+    "mode": "Le4",
+    "nodes": 288,
+    "second": null,
+    "seconds": 0.6523388,
+    "total_guesses": 8274
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4354974704890386,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.959106239460371,
+      "p_le3": 0.545531197301855,
+      "p_le4": 0.989460370994941,
+      "solved_in": {
+        "1": 0,
+        "2": 72,
+        "3": 1222,
+        "4": 1053,
+        "5": 23,
+        "6": 2
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "reast",
+    "hard": false,
+    "late_answers": 25,
+    "mode": "Le4",
+    "nodes": 299,
+    "second": null,
+    "seconds": 0.4578621,
+    "total_guesses": 8149
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4793423271500843,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9666947723440135,
+      "p_le3": 0.5139123102866779,
+      "p_le4": 0.9873524451939292,
+      "solved_in": {
+        "1": 0,
+        "2": 49,
+        "3": 1170,
+        "4": 1123,
+        "5": 27,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "raile",
+    "hard": false,
+    "late_answers": 30,
+    "mode": "Le4",
+    "nodes": 288,
+    "second": null,
+    "seconds": 0.501081,
+    "total_guesses": 8253
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4443507588532882,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9607925801011804,
+      "p_le3": 0.5396290050590219,
+      "p_le4": 0.9881956155143339,
+      "solved_in": {
+        "1": 1,
+        "2": 64,
+        "3": 1215,
+        "4": 1064,
+        "5": 28,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "slate",
+    "hard": false,
+    "late_answers": 28,
+    "mode": "Le4",
+    "nodes": 242,
+    "second": null,
+    "seconds": 0.6052211,
+    "total_guesses": 8170
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.440556492411467,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9561551433389545,
+      "p_le3": 0.5387858347386172,
+      "p_le4": 0.9890387858347386,
+      "solved_in": {
+        "1": 0,
+        "2": 78,
+        "3": 1200,
+        "4": 1068,
+        "5": 23,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "salet",
+    "hard": false,
+    "late_answers": 26,
+    "mode": "Le4",
+    "nodes": 254,
+    "second": null,
+    "seconds": 0.438513,
+    "total_guesses": 8161
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.454047217537943,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9637436762225969,
+      "p_le3": 0.5320404721753794,
+      "p_le4": 0.989460370994941,
+      "solved_in": {
+        "1": 0,
+        "2": 61,
+        "3": 1201,
+        "4": 1085,
+        "5": 22,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "sater",
+    "hard": false,
+    "late_answers": 25,
+    "mode": "Le4",
+    "nodes": 231,
+    "second": null,
+    "seconds": 0.524858,
+    "total_guesses": 8193
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4949409780775715,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9603709949409781,
+      "p_le3": 0.5067453625632378,
+      "p_le4": 0.9810286677908938,
+      "solved_in": {
+        "1": 1,
+        "2": 48,
+        "3": 1153,
+        "4": 1125,
+        "5": 36,
+        "6": 9
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "arise",
+    "hard": false,
+    "late_answers": 45,
+    "mode": "Le4",
+    "nodes": 363,
+    "second": null,
+    "seconds": 0.83737,
+    "total_guesses": 8290
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.486087689713322,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9599494097807757,
+      "p_le3": 0.5012647554806071,
+      "p_le4": 0.9869308600337268,
+      "solved_in": {
+        "1": 0,
+        "2": 64,
+        "3": 1125,
+        "4": 1152,
+        "5": 28,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "orate",
+    "hard": false,
+    "late_answers": 31,
+    "mode": "Le4",
+    "nodes": 427,
+    "second": null,
+    "seconds": 0.5674256,
+    "total_guesses": 8269
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4898819561551435,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9603709949409781,
+      "p_le3": 0.5021079258010118,
+      "p_le4": 0.984822934232715,
+      "solved_in": {
+        "1": 1,
+        "2": 57,
+        "3": 1133,
+        "4": 1145,
+        "5": 32,
+        "6": 4
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "irate",
+    "hard": false,
+    "late_answers": 36,
+    "mode": "Le4",
+    "nodes": 274,
+    "second": null,
+    "seconds": 1.0028119,
+    "total_guesses": 8278
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.497892074198988,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9624789207419899,
+      "p_le3": 0.49620573355817876,
+      "p_le4": 0.984822934232715,
+      "solved_in": {
+        "1": 0,
+        "2": 53,
+        "3": 1124,
+        "4": 1159,
+        "5": 33,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "ariel",
+    "hard": false,
+    "late_answers": 36,
+    "mode": "Le4",
+    "nodes": 308,
+    "second": null,
+    "seconds": 0.8508271,
+    "total_guesses": 8297
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4776559865092747,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9641652613827993,
+      "p_le3": 0.5189713322091062,
+      "p_le4": 0.9839797639123102,
+      "solved_in": {
+        "1": 1,
+        "2": 46,
+        "3": 1184,
+        "4": 1103,
+        "5": 36,
+        "6": 2
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "arose",
+    "hard": false,
+    "late_answers": 38,
+    "mode": "Le4",
+    "nodes": 617,
+    "second": null,
+    "seconds": 0.8279273,
+    "total_guesses": 8249
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.496627318718381,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9658516020236088,
+      "p_le3": 0.49494097807757165,
+      "p_le4": 0.9881956155143339,
+      "solved_in": {
+        "1": 0,
+        "2": 53,
+        "3": 1121,
+        "4": 1170,
+        "5": 23,
+        "6": 5
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "olate",
+    "hard": false,
+    "late_answers": 28,
+    "mode": "Le4",
+    "nodes": 235,
+    "second": null,
+    "seconds": 0.5510228,
+    "total_guesses": 8294
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.5358347386172007,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.959106239460371,
+      "p_le3": 0.4548903878583474,
+      "p_le4": 0.9852445193929174,
+      "solved_in": {
+        "1": 0,
+        "2": 62,
+        "3": 1017,
+        "4": 1258,
+        "5": 30,
+        "6": 5
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "aesir",
+    "hard": false,
+    "late_answers": 35,
+    "mode": "Le4",
+    "nodes": 309,
+    "second": null,
+    "seconds": 0.6987813,
+    "total_guesses": 8387
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.5413153456998314,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9612141652613828,
+      "p_le3": 0.45193929173693087,
+      "p_le4": 0.984822934232715,
+      "solved_in": {
+        "1": 0,
+        "2": 56,
+        "3": 1016,
+        "4": 1264,
+        "5": 32,
+        "6": 4
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "reais",
+    "hard": false,
+    "late_answers": 36,
+    "mode": "Le4",
+    "nodes": 359,
+    "second": null,
+    "seconds": 0.7653097,
+    "total_guesses": 8400
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.5219224283305226,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9532040472175379,
+      "p_le3": 0.474283305227656,
+      "p_le4": 0.9793423271500843,
+      "solved_in": {
+        "1": 0,
+        "2": 62,
+        "3": 1063,
+        "4": 1198,
+        "5": 45,
+        "6": 4
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "seria",
+    "hard": false,
+    "late_answers": 49,
+    "mode": "Le4",
+    "nodes": 243,
+    "second": null,
+    "seconds": 0.9414273,
+    "total_guesses": 8354
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.545952782462057,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9578414839797639,
+      "p_le3": 0.459106239460371,
+      "p_le4": 0.9772344013490725,
+      "solved_in": {
+        "1": 0,
+        "2": 46,
+        "3": 1043,
+        "4": 1229,
+        "5": 50,
+        "6": 4
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "serai",
+    "hard": false,
+    "late_answers": 54,
+    "mode": "Le4",
+    "nodes": 268,
+    "second": null,
+    "seconds": 0.9898233,
+    "total_guesses": 8411
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.5813659359190555,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9595278246205734,
+      "p_le3": 0.4279089376053963,
+      "p_le4": 0.9763912310286678,
+      "solved_in": {
+        "1": 0,
+        "2": 40,
+        "3": 975,
+        "4": 1301,
+        "5": 50,
+        "6": 6
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "ayrie",
+    "hard": false,
+    "late_answers": 56,
+    "mode": "Le4",
+    "nodes": 247,
+    "second": null,
+    "seconds": 1.1298049,
+    "total_guesses": 8495
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.595699831365936,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9489881956155143,
+      "p_le3": 0.41188870151770657,
+      "p_le4": 0.9721753794266442,
+      "solved_in": {
+        "1": 0,
+        "2": 55,
+        "3": 922,
+        "4": 1329,
+        "5": 59,
+        "6": 7
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "aiery",
+    "hard": false,
+    "late_answers": 66,
+    "mode": "Le4",
+    "nodes": 310,
+    "second": null,
+    "seconds": 1.5336813,
+    "total_guesses": 8529
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.5311973018549745,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9654300168634065,
+      "p_le3": 0.4629005059021922,
+      "p_le4": 0.9856661045531198,
+      "solved_in": {
+        "1": 0,
+        "2": 48,
+        "3": 1050,
+        "4": 1240,
+        "5": 34,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "aloes",
+    "hard": false,
+    "late_answers": 34,
+    "mode": "Le4",
+    "nodes": 246,
+    "second": null,
+    "seconds": 0.5766197,
+    "total_guesses": 8376
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.440556492411467,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9548903878583473,
+      "p_le3": 0.5421585160202361,
+      "p_le4": 0.9865092748735245,
+      "solved_in": {
+        "1": 1,
+        "2": 74,
+        "3": 1211,
+        "4": 1054,
+        "5": 29,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "trace",
+    "hard": false,
+    "late_answers": 32,
+    "mode": "Le4",
+    "nodes": 211,
+    "second": null,
+    "seconds": 0.4952248,
+    "total_guesses": 8161
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4430860033726813,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9515177065767285,
+      "p_le3": 0.5362563237774031,
+      "p_le4": 0.9865092748735245,
+      "solved_in": {
+        "1": 1,
+        "2": 82,
+        "3": 1189,
+        "4": 1068,
+        "5": 29,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "crate",
+    "hard": false,
+    "late_answers": 32,
+    "mode": "Le4",
+    "nodes": 193,
+    "second": null,
+    "seconds": 0.5289542,
+    "total_guesses": 8167
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4721753794266443,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9519392917369308,
+      "p_le3": 0.5080101180438449,
+      "p_le4": 0.9865092748735245,
+      "solved_in": {
+        "1": 0,
+        "2": 82,
+        "3": 1123,
+        "4": 1135,
+        "5": 29,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "peart",
+    "hard": false,
+    "late_answers": 32,
+    "mode": "Le4",
+    "nodes": 202,
+    "second": null,
+    "seconds": 0.6123585,
+    "total_guesses": 8236
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.449831365935919,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.954468802698145,
+      "p_le3": 0.5265598650927488,
+      "p_le4": 0.989460370994941,
+      "solved_in": {
+        "1": 0,
+        "2": 83,
+        "3": 1166,
+        "4": 1098,
+        "5": 23,
+        "6": 2
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "carte",
+    "hard": false,
+    "late_answers": 25,
+    "mode": "Le4",
+    "nodes": 234,
+    "second": null,
+    "seconds": 0.4541713,
+    "total_guesses": 8183
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.475126475548061,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9527824620573356,
+      "p_le3": 0.515177065767285,
+      "p_le4": 0.9831365935919055,
+      "solved_in": {
+        "1": 1,
+        "2": 71,
+        "3": 1150,
+        "4": 1110,
+        "5": 30,
+        "6": 10
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "parse",
+    "hard": false,
+    "late_answers": 40,
+    "mode": "Le4",
+    "nodes": 244,
+    "second": null,
+    "seconds": 0.5442513,
+    "total_guesses": 8243
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.459106239460371,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9569983136593592,
+      "p_le3": 0.5223440134907251,
+      "p_le4": 0.9881956155143339,
+      "solved_in": {
+        "1": 0,
+        "2": 74,
+        "3": 1165,
+        "4": 1105,
+        "5": 26,
+        "6": 2
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "caret",
+    "hard": false,
+    "late_answers": 28,
+    "mode": "Le4",
+    "nodes": 219,
+    "second": null,
+    "seconds": 0.5105766,
+    "total_guesses": 8205
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.449831365935919,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9612141652613828,
+      "p_le3": 0.5375210792580101,
+      "p_le4": 0.9873524451939292,
+      "solved_in": {
+        "1": 0,
+        "2": 62,
+        "3": 1213,
+        "4": 1067,
+        "5": 28,
+        "6": 2
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "slane",
+    "hard": false,
+    "late_answers": 30,
+    "mode": "Le4",
+    "nodes": 226,
+    "second": null,
+    "seconds": 0.5120982,
+    "total_guesses": 8183
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4456155143338956,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9620573355817875,
+      "p_le3": 0.5354131534569984,
+      "p_le4": 0.9911467116357504,
+      "solved_in": {
+        "1": 0,
+        "2": 69,
+        "3": 1201,
+        "4": 1081,
+        "5": 18,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "carle",
+    "hard": false,
+    "late_answers": 21,
+    "mode": "Le4",
+    "nodes": 225,
+    "second": null,
+    "seconds": 0.341516,
+    "total_guesses": 8173
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.448566610455312,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9586846543001686,
+      "p_le3": 0.5341483979763912,
+      "p_le4": 0.9881956155143339,
+      "solved_in": {
+        "1": 1,
+        "2": 69,
+        "3": 1197,
+        "4": 1077,
+        "5": 26,
+        "6": 2
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "crane",
+    "hard": false,
+    "late_answers": 28,
+    "mode": "Le4",
+    "nodes": 195,
+    "second": null,
+    "seconds": 0.4610788,
+    "total_guesses": 8180
+  },
+  {
+    "beam": 30,
+    "dist": {
+      "avg": 3.4561551433389543,
+      "fail": 0,
+      "n": 2372,
+      "p_3or4": 0.9569983136593592,
+      "p_le3": 0.53035413153457,
+      "p_le4": 0.9856661045531198,
+      "solved_in": {
+        "1": 1,
+        "2": 67,
+        "3": 1190,
+        "4": 1080,
+        "5": 31,
+        "6": 3
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "least",
+    "hard": false,
+    "late_answers": 34,
+    "mode": "Le4",
+    "nodes": 295,
+    "second": null,
+    "seconds": 0.8966711,
+    "total_guesses": 8198
+  }
+]

@@ -1,0 +1,2530 @@
+{
+  "summary": {
+    "beam": 200,
+    "dist": {
+      "avg": 2.903225806451613,
+      "fail": 0,
+      "n": 465,
+      "p_3or4": 0.8344086021505376,
+      "p_le3": 0.9311827956989247,
+      "p_le4": 1.0,
+      "solved_in": {
+        "1": 0,
+        "2": 77,
+        "3": 356,
+        "4": 32,
+        "5": 0,
+        "6": 0
+      }
+    },
+    "exact": false,
+    "exact_n": 12,
+    "feasible": true,
+    "first": "sater",
+    "hard": false,
+    "late_answers": null,
+    "mode": "Expected",
+    "nodes": 21,
+    "second": null,
+    "second_by_pattern": {
+      ".....": {
+        "n": 51,
+        "second": "dimly"
+      },
+      "....G": {
+        "n": 7,
+        "second": "filum"
+      },
+      "....Y": {
+        "n": 18,
+        "second": "corni"
+      },
+      "...G.": {
+        "n": 11,
+        "second": "bonum"
+      },
+      "...GG": {
+        "n": 16,
+        "second": "pilow"
+      },
+      "...GY": {
+        "n": 8,
+        "second": "creep"
+      },
+      "...Y.": {
+        "n": 22,
+        "second": "deice"
+      },
+      "...YG": {
+        "n": 1,
+        "second": "femur"
+      },
+      "...YY": {
+        "n": 9,
+        "second": "amide"
+      },
+      "..G..": {
+        "n": 9,
+        "second": "banco"
+      },
+      "..G.G": {
+        "n": 1,
+        "second": "rotor"
+      },
+      "..GG.": {
+        "n": 1,
+        "second": "betel"
+      },
+      "..GY.": {
+        "n": 2,
+        "second": "cutie"
+      },
+      "..Y..": {
+        "n": 18,
+        "second": "tight"
+      },
+      "..Y.G": {
+        "n": 1,
+        "second": "tumor"
+      },
+      "..Y.Y": {
+        "n": 6,
+        "second": "about"
+      },
+      "..YG.": {
+        "n": 3,
+        "second": "fleet"
+      },
+      "..YGG": {
+        "n": 1,
+        "second": "truer"
+      },
+      "..YGY": {
+        "n": 1,
+        "second": "tried"
+      },
+      "..YY.": {
+        "n": 4,
+        "second": "evict"
+      },
+      "..YYY": {
+        "n": 4,
+        "second": "erect"
+      },
+      ".G...": {
+        "n": 17,
+        "second": "bingy"
+      },
+      ".G..G": {
+        "n": 4,
+        "second": "valor"
+      },
+      ".G..Y": {
+        "n": 12,
+        "second": "doily"
+      },
+      ".G.G.": {
+        "n": 3,
+        "second": "cagey"
+      },
+      ".G.GG": {
+        "n": 5,
+        "second": "agley"
+      },
+      ".G.GY": {
+        "n": 2,
+        "second": "harem"
+      },
+      ".G.Y.": {
+        "n": 3,
+        "second": "gaffe"
+      },
+      ".GG..": {
+        "n": 3,
+        "second": "fatal"
+      },
+      ".GGGG": {
+        "n": 1,
+        "second": "eater"
+      },
+      ".GY..": {
+        "n": 4,
+        "second": "caput"
+      },
+      ".GY.Y": {
+        "n": 2,
+        "second": "tarot"
+      },
+      ".GYGG": {
+        "n": 2,
+        "second": "taker"
+      },
+      ".GYY.": {
+        "n": 1,
+        "second": "haute"
+      },
+      ".Y...": {
+        "n": 16,
+        "second": "aloin"
+      },
+      ".Y..G": {
+        "n": 4,
+        "second": "armor"
+      },
+      ".Y..Y": {
+        "n": 10,
+        "second": "drawl"
+      },
+      ".Y.G.": {
+        "n": 2,
+        "second": "abled"
+      },
+      ".Y.GG": {
+        "n": 1,
+        "second": "aider"
+      },
+      ".Y.Y.": {
+        "n": 7,
+        "second": "abaca"
+      },
+      ".Y.YG": {
+        "n": 2,
+        "second": "debar"
+      },
+      ".Y.YY": {
+        "n": 5,
+        "second": "afire"
+      },
+      ".YG..": {
+        "n": 1,
+        "second": "octal"
+      },
+      ".YGY.": {
+        "n": 1,
+        "second": "fetal"
+      },
+      ".YY..": {
+        "n": 7,
+        "second": "junta"
+      },
+      ".YY.Y": {
+        "n": 2,
+        "second": "abort"
+      },
+      ".YYY.": {
+        "n": 5,
+        "second": "cleat"
+      },
+      ".YYYY": {
+        "n": 2,
+        "second": "terra"
+      },
+      "G....": {
+        "n": 20,
+        "second": "chink"
+      },
+      "G...Y": {
+        "n": 2,
+        "second": "slurp"
+      },
+      "G..G.": {
+        "n": 5,
+        "second": "sheen"
+      },
+      "G..GG": {
+        "n": 3,
+        "second": "sheer"
+      },
+      "G..GY": {
+        "n": 4,
+        "second": "scree"
+      },
+      "G..Y.": {
+        "n": 4,
+        "second": "seize"
+      },
+      "G..YY": {
+        "n": 2,
+        "second": "sperm"
+      },
+      "G.GY.": {
+        "n": 1,
+        "second": "setup"
+      },
+      "G.Y..": {
+        "n": 9,
+        "second": "coypu"
+      },
+      "G.Y.Y": {
+        "n": 1,
+        "second": "shirt"
+      },
+      "G.YG.": {
+        "n": 1,
+        "second": "sleet"
+      },
+      "G.YGG": {
+        "n": 1,
+        "second": "steer"
+      },
+      "G.YY.": {
+        "n": 3,
+        "second": "slept"
+      },
+      "GG...": {
+        "n": 5,
+        "second": "salon"
+      },
+      "GG.GG": {
+        "n": 2,
+        "second": "safer"
+      },
+      "GG.Y.": {
+        "n": 2,
+        "second": "salve"
+      },
+      "GGG.G": {
+        "n": 1,
+        "second": "satyr"
+      },
+      "GY...": {
+        "n": 14,
+        "second": "lynch"
+      },
+      "GY..Y": {
+        "n": 3,
+        "second": "aback"
+      },
+      "GY.Y.": {
+        "n": 1,
+        "second": "shale"
+      },
+      "GY.YG": {
+        "n": 1,
+        "second": "swear"
+      },
+      "GYY..": {
+        "n": 3,
+        "second": "shalt"
+      },
+      "GYYY.": {
+        "n": 2,
+        "second": "stave"
+      },
+      "Y....": {
+        "n": 17,
+        "second": "humpy"
+      },
+      "Y...Y": {
+        "n": 4,
+        "second": "dross"
+      },
+      "Y..G.": {
+        "n": 2,
+        "second": "bused"
+      },
+      "Y..Y.": {
+        "n": 7,
+        "second": "obese"
+      },
+      "Y..YY": {
+        "n": 3,
+        "second": "cress"
+      },
+      "Y.GGG": {
+        "n": 1,
+        "second": "ester"
+      },
+      "Y.GY.": {
+        "n": 1,
+        "second": "fetus"
+      },
+      "Y.Y..": {
+        "n": 1,
+        "second": "gusto"
+      },
+      "Y.Y.Y": {
+        "n": 1,
+        "second": "torus"
+      },
+      "Y.YG.": {
+        "n": 1,
+        "second": "unset"
+      },
+      "Y.YGY": {
+        "n": 1,
+        "second": "reset"
+      },
+      "Y.YY.": {
+        "n": 2,
+        "second": "pesto"
+      },
+      "Y.YYY": {
+        "n": 1,
+        "second": "wrest"
+      },
+      "YG...": {
+        "n": 4,
+        "second": "basal"
+      },
+      "YG..Y": {
+        "n": 1,
+        "second": "raspy"
+      },
+      "YG.YY": {
+        "n": 1,
+        "second": "parse"
+      },
+      "YGY..": {
+        "n": 1,
+        "second": "pasty"
+      },
+      "YGYY.": {
+        "n": 2,
+        "second": "caste"
+      },
+      "YY...": {
+        "n": 1,
+        "second": "quasi"
+      },
+      "YY..Y": {
+        "n": 1,
+        "second": "arson"
+      },
+      "YY.Y.": {
+        "n": 1,
+        "second": "abuse"
+      },
+      "YY.YY": {
+        "n": 1,
+        "second": "arose"
+      },
+      "YYY..": {
+        "n": 1,
+        "second": "vista"
+      },
+      "YYY.Y": {
+        "n": 1,
+        "second": "roast"
+      }
+    },
+    "seconds": 0.0170312,
+    "total_guesses": 1350,
+    "universe": "unused"
+  },
+  "tree": {
+    "children": {
+      ".....": {
+        "children": {
+          ".....": {
+            "children": {
+              "Y.Y.G": {
+                "guess": "punch",
+                "n": 1
+              },
+              "YG..G": {
+                "guess": "pooch",
+                "n": 1
+              },
+              "YGG.G": {
+                "guess": "pouch",
+                "n": 1
+              }
+            },
+            "guess": "cough",
+            "n": 4
+          },
+          "....G": {
+            "children": {
+              ".G..G": {
+                "guess": "woozy",
+                "n": 1
+              }
+            },
+            "guess": "bobby",
+            "n": 2
+          },
+          "...GG": {
+            "children": {
+              ".G.GG": {
+                "guess": "wooly",
+                "n": 1
+              }
+            },
+            "guess": "golly",
+            "n": 2
+          },
+          "...Y.": {
+            "guess": "gulch",
+            "n": 1
+          },
+          "..GYY": {
+            "guess": "lymph",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "buxom",
+            "n": 1
+          },
+          "..Y.G": {
+            "guess": "pygmy",
+            "n": 1
+          },
+          ".G...": {
+            "children": {
+              ".GG..": {
+                "guess": "winch",
+                "n": 1
+              }
+            },
+            "guess": "bingo",
+            "n": 2
+          },
+          ".G..G": {
+            "children": {
+              ".....": {
+                "guess": "hippy",
+                "n": 1
+              },
+              "....Y": {
+                "guess": "piggy",
+                "n": 1
+              },
+              "...G.": {
+                "guess": "ninny",
+                "n": 1
+              },
+              "...Y.": {
+                "guess": "kinky",
+                "n": 1
+              }
+            },
+            "guess": "abeng",
+            "n": 4
+          },
+          ".G.GG": {
+            "children": {
+              ".GGGG": {
+                "guess": "willy",
+                "n": 1
+              }
+            },
+            "guess": "billy",
+            "n": 2
+          },
+          ".G.Y.": {
+            "guess": "vigil",
+            "n": 1
+          },
+          ".GY..": {
+            "guess": "minim",
+            "n": 1
+          },
+          ".GYYG": {
+            "children": {
+              ".GGYG": {
+                "guess": "milky",
+                "n": 1
+              }
+            },
+            "guess": "filmy",
+            "n": 2
+          },
+          ".Y...": {
+            "children": {
+              "..G..": {
+                "guess": "owing",
+                "n": 1
+              },
+              "Y.Y..": {
+                "guess": "pubic",
+                "n": 1
+              }
+            },
+            "guess": "chick",
+            "n": 3
+          },
+          ".Y..G": {
+            "guess": "juicy",
+            "n": 1
+          },
+          ".Y.GG": {
+            "guess": "icily",
+            "n": 1
+          },
+          ".Y.Y.": {
+            "guess": "login",
+            "n": 1
+          },
+          ".YG..": {
+            "guess": "comic",
+            "n": 1
+          },
+          ".YY..": {
+            "guess": "opium",
+            "n": 1
+          },
+          ".YYGG": {
+            "guess": "imply",
+            "n": 1
+          },
+          "G...G": {
+            "guess": "downy",
+            "n": 1
+          },
+          "G..GG": {
+            "guess": "dully",
+            "n": 1
+          },
+          "G.G.G": {
+            "guess": "dumpy",
+            "n": 1
+          },
+          "GG.GG": {
+            "guess": "dilly",
+            "n": 1
+          },
+          "GY..Y": {
+            "guess": "dying",
+            "n": 1
+          },
+          "Y....": {
+            "guess": "bound",
+            "n": 1
+          },
+          "Y...G": {
+            "children": {
+              "..Y.G": {
+                "guess": "woody",
+                "n": 1
+              }
+            },
+            "guess": "pudgy",
+            "n": 2
+          },
+          "Y..GG": {
+            "guess": "godly",
+            "n": 1
+          },
+          "Y.Y.G": {
+            "children": {
+              "G..GG": {
+                "guess": "muddy",
+                "n": 1
+              }
+            },
+            "guess": "moody",
+            "n": 2
+          },
+          "YG...": {
+            "guess": "widow",
+            "n": 1
+          },
+          "YG..G": {
+            "guess": "biddy",
+            "n": 1
+          },
+          "YG.Y.": {
+            "guess": "lipid",
+            "n": 1
+          },
+          "YY...": {
+            "guess": "ovoid",
+            "n": 1
+          },
+          "YY.GY": {
+            "guess": "idyll",
+            "n": 1
+          },
+          "YY.Y.": {
+            "guess": "fluid",
+            "n": 1
+          }
+        },
+        "guess": "dimly",
+        "n": 51
+      },
+      "....G": {
+        "children": {
+          ".....": {
+            "guess": "honor",
+            "n": 1
+          },
+          "...Y.": {
+            "guess": "juror",
+            "n": 1
+          },
+          "...YY": {
+            "guess": "rumor",
+            "n": 1
+          },
+          "..G..": {
+            "guess": "color",
+            "n": 1
+          },
+          ".G...": {
+            "guess": "rigor",
+            "n": 1
+          },
+          ".G..Y": {
+            "guess": "minor",
+            "n": 1
+          },
+          "G..Y.": {
+            "guess": "furor",
+            "n": 1
+          }
+        },
+        "guess": "filum",
+        "n": 7
+      },
+      "....Y": {
+        "children": {
+          "..G..": {
+            "guess": "furry",
+            "n": 1
+          },
+          "..G.Y": {
+            "guess": "girly",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "wryly",
+            "n": 1
+          },
+          "..Y.Y": {
+            "guess": "druid",
+            "n": 1
+          },
+          "..YGY": {
+            "guess": "wring",
+            "n": 1
+          },
+          ".GGG.": {
+            "guess": "horny",
+            "n": 1
+          },
+          ".GGY.": {
+            "guess": "moron",
+            "n": 1
+          },
+          ".GY..": {
+            "guess": "gourd",
+            "n": 1
+          },
+          ".YY..": {
+            "guess": "hydro",
+            "n": 1
+          },
+          ".YYY.": {
+            "guess": "drown",
+            "n": 1
+          },
+          "G.G..": {
+            "guess": "curvy",
+            "n": 1
+          },
+          "G.Y..": {
+            "guess": "crump",
+            "n": 1
+          },
+          "G.Y.Y": {
+            "guess": "crick",
+            "n": 1
+          },
+          "GYY..": {
+            "guess": "croup",
+            "n": 1
+          },
+          "GYYG.": {
+            "guess": "crony",
+            "n": 1
+          },
+          "Y.G..": {
+            "guess": "lurch",
+            "n": 1
+          },
+          "Y.G.Y": {
+            "guess": "lyric",
+            "n": 1
+          },
+          "Y.Y.Y": {
+            "guess": "brick",
+            "n": 1
+          }
+        },
+        "guess": "corni",
+        "n": 18
+      },
+      "...G.": {
+        "children": {
+          ".....": {
+            "guess": "plied",
+            "n": 1
+          },
+          "....Y": {
+            "guess": "melee",
+            "n": 1
+          },
+          "...Y.": {
+            "guess": "clued",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "kneed",
+            "n": 1
+          },
+          "..Y.Y": {
+            "guess": "hymen",
+            "n": 1
+          },
+          "..YY.": {
+            "guess": "unwed",
+            "n": 1
+          },
+          "..YYY": {
+            "guess": "lumen",
+            "n": 1
+          },
+          ".G...": {
+            "guess": "covey",
+            "n": 1
+          },
+          "G....": {
+            "guess": "bezel",
+            "n": 1
+          },
+          "GG...": {
+            "guess": "bowel",
+            "n": 1
+          },
+          "GGG..": {
+            "guess": "boney",
+            "n": 1
+          }
+        },
+        "guess": "bonum",
+        "n": 11
+      },
+      "...GG": {
+        "children": {
+          ".....": {
+            "guess": "freer",
+            "n": 1
+          },
+          "....Y": {
+            "guess": "newer",
+            "n": 1
+          },
+          "...Y.": {
+            "children": {
+              "Y..GG": {
+                "guess": "roger",
+                "n": 1
+              }
+            },
+            "guess": "odder",
+            "n": 2
+          },
+          "...YY": {
+            "guess": "mower",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "bluer",
+            "n": 1
+          },
+          ".G...": {
+            "guess": "giver",
+            "n": 1
+          },
+          ".G..Y": {
+            "guess": "wider",
+            "n": 1
+          },
+          ".GG..": {
+            "guess": "filer",
+            "n": 1
+          },
+          ".Y...": {
+            "children": {
+              ".GGGG": {
+                "guess": "drier",
+                "n": 1
+              }
+            },
+            "guess": "crier",
+            "n": 2
+          },
+          ".YY..": {
+            "guess": "flier",
+            "n": 1
+          },
+          "G....": {
+            "guess": "purer",
+            "n": 1
+          },
+          "GYY..": {
+            "guess": "plier",
+            "n": 1
+          },
+          "Y.Y..": {
+            "guess": "leper",
+            "n": 1
+          },
+          "YG...": {
+            "guess": "viper",
+            "n": 1
+          }
+        },
+        "guess": "pilow",
+        "n": 16
+      },
+      "...GY": {
+        "children": {
+          ".G.G.": {
+            "guess": "dried",
+            "n": 1
+          },
+          ".G.GY": {
+            "guess": "pried",
+            "n": 1
+          },
+          ".GGG.": {
+            "guess": "freed",
+            "n": 1
+          },
+          ".Y.GY": {
+            "guess": "ripen",
+            "n": 1
+          },
+          ".YYGY": {
+            "guess": "puree",
+            "n": 1
+          },
+          "GG.G.": {
+            "guess": "cried",
+            "n": 1
+          },
+          "GGGG.": {
+            "guess": "creek",
+            "n": 1
+          }
+        },
+        "guess": "creep",
+        "n": 8
+      },
+      "...Y.": {
+        "children": {
+          "....G": {
+            "guess": "boule",
+            "n": 1
+          },
+          "...YG": {
+            "guess": "coupe",
+            "n": 1
+          },
+          "..G.G": {
+            "guess": "ovine",
+            "n": 1
+          },
+          "..Y.G": {
+            "guess": "bible",
+            "n": 1
+          },
+          ".G...": {
+            "children": {
+              ".G..Y": {
+                "guess": "penny",
+                "n": 1
+              }
+            },
+            "guess": "felon",
+            "n": 2
+          },
+          ".G..G": {
+            "guess": "femme",
+            "n": 1
+          },
+          ".G..Y": {
+            "guess": "geeky",
+            "n": 1
+          },
+          ".G.G.": {
+            "guess": "welch",
+            "n": 1
+          },
+          ".G.GG": {
+            "guess": "pence",
+            "n": 1
+          },
+          ".G.GY": {
+            "guess": "beech",
+            "n": 1
+          },
+          ".Y..Y": {
+            "guess": "enemy",
+            "n": 1
+          },
+          ".Y.G.": {
+            "guess": "fleck",
+            "n": 1
+          },
+          ".YG..": {
+            "children": {
+              "G.GGG": {
+                "guess": "eying",
+                "n": 1
+              }
+            },
+            "guess": "eking",
+            "n": 2
+          },
+          ".YY.G": {
+            "guess": "liege",
+            "n": 1
+          },
+          "G..GG": {
+            "guess": "dunce",
+            "n": 1
+          },
+          "G.Y.G": {
+            "guess": "diode",
+            "n": 1
+          },
+          "GGG..": {
+            "guess": "deign",
+            "n": 1
+          },
+          "Y...G": {
+            "guess": "fudge",
+            "n": 1
+          },
+          "YG..G": {
+            "guess": "hedge",
+            "n": 1
+          },
+          "YYG.G": {
+            "guess": "elide",
+            "n": 1
+          }
+        },
+        "guess": "deice",
+        "n": 22
+      },
+      "...YG": {
+        "guess": "femur",
+        "n": 1
+      },
+      "...YY": {
+        "children": {
+          "....G": {
+            "guess": "grope",
+            "n": 1
+          },
+          "....Y": {
+            "guess": "berry",
+            "n": 1
+          },
+          "...GY": {
+            "guess": "reedy",
+            "n": 1
+          },
+          "...YY": {
+            "guess": "derby",
+            "n": 1
+          },
+          "..G.G": {
+            "guess": "urine",
+            "n": 1
+          },
+          "..G.Y": {
+            "guess": "reign",
+            "n": 1
+          },
+          "..Y.G": {
+            "guess": "rifle",
+            "n": 1
+          },
+          ".G..G": {
+            "guess": "ombre",
+            "n": 1
+          },
+          ".Y..G": {
+            "guess": "creme",
+            "n": 1
+          }
+        },
+        "guess": "amide",
+        "n": 9
+      },
+      "..G..": {
+        "children": {
+          ".....": {
+            "guess": "kitty",
+            "n": 1
+          },
+          "....G": {
+            "guess": "outgo",
+            "n": 1
+          },
+          "....Y": {
+            "guess": "hotly",
+            "n": 1
+          },
+          "...G.": {
+            "guess": "ditch",
+            "n": 1
+          },
+          "...YY": {
+            "guess": "optic",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "nutty",
+            "n": 1
+          },
+          "G....": {
+            "guess": "bitty",
+            "n": 1
+          },
+          "G..G.": {
+            "guess": "butch",
+            "n": 1
+          },
+          "G..GY": {
+            "guess": "botch",
+            "n": 1
+          }
+        },
+        "guess": "banco",
+        "n": 9
+      },
+      "..G.G": {
+        "guess": "rotor",
+        "n": 1
+      },
+      "..GG.": {
+        "guess": "betel",
+        "n": 1
+      },
+      "..GY.": {
+        "children": {
+          "..G.Y": {
+            "guess": "jetty",
+            "n": 1
+          }
+        },
+        "guess": "cutie",
+        "n": 2
+      },
+      "..Y..": {
+        "children": {
+          "....G": {
+            "guess": "clout",
+            "n": 1
+          },
+          ".G..G": {
+            "guess": "pivot",
+            "n": 1
+          },
+          ".GG.G": {
+            "guess": "bigot",
+            "n": 1
+          },
+          ".GGGG": {
+            "children": {
+              ".GGGG": {
+                "guess": "wight",
+                "n": 1
+              }
+            },
+            "guess": "fight",
+            "n": 2
+          },
+          ".Y..G": {
+            "children": {
+              "Y..YG": {
+                "guess": "vomit",
+                "n": 1
+              }
+            },
+            "guess": "idiot",
+            "n": 2
+          },
+          ".YG.G": {
+            "guess": "ingot",
+            "n": 1
+          },
+          ".YY.G": {
+            "guess": "guilt",
+            "n": 1
+          },
+          "G.YY.": {
+            "guess": "thong",
+            "n": 1
+          },
+          "GG...": {
+            "guess": "timid",
+            "n": 1
+          },
+          "GY..G": {
+            "guess": "twixt",
+            "n": 1
+          },
+          "GYY..": {
+            "guess": "tying",
+            "n": 1
+          },
+          "Y....": {
+            "guess": "junto",
+            "n": 1
+          },
+          "Y..Y.": {
+            "guess": "quoth",
+            "n": 1
+          },
+          "YG.Y.": {
+            "guess": "filth",
+            "n": 1
+          },
+          "YY...": {
+            "guess": "blitz",
+            "n": 1
+          }
+        },
+        "guess": "tight",
+        "n": 18
+      },
+      "..Y.G": {
+        "guess": "tumor",
+        "n": 1
+      },
+      "..Y.Y": {
+        "children": {
+          "....Y": {
+            "guess": "dirty",
+            "n": 1
+          },
+          "...YG": {
+            "guess": "grunt",
+            "n": 1
+          },
+          "...YY": {
+            "guess": "trump",
+            "n": 1
+          },
+          "..G.G": {
+            "guess": "droit",
+            "n": 1
+          },
+          "..Y.Y": {
+            "guess": "worth",
+            "n": 1
+          },
+          ".Y.YG": {
+            "guess": "brunt",
+            "n": 1
+          }
+        },
+        "guess": "about",
+        "n": 6
+      },
+      "..YG.": {
+        "children": {
+          "..YGG": {
+            "guess": "tenet",
+            "n": 1
+          },
+          "..YGY": {
+            "guess": "tepee",
+            "n": 1
+          }
+        },
+        "guess": "fleet",
+        "n": 3
+      },
+      "..YGG": {
+        "guess": "truer",
+        "n": 1
+      },
+      "..YGY": {
+        "guess": "tried",
+        "n": 1
+      },
+      "..YY.": {
+        "children": {
+          "G..GG": {
+            "guess": "elect",
+            "n": 1
+          },
+          "Y...Y": {
+            "guess": "tulle",
+            "n": 1
+          },
+          "Y.G.Y": {
+            "guess": "utile",
+            "n": 1
+          }
+        },
+        "guess": "evict",
+        "n": 4
+      },
+      "..YYY": {
+        "children": {
+          "YG.GY": {
+            "guess": "truce",
+            "n": 1
+          },
+          "YY..G": {
+            "guess": "refit",
+            "n": 1
+          },
+          "YY.YG": {
+            "guess": "recut",
+            "n": 1
+          }
+        },
+        "guess": "erect",
+        "n": 4
+      },
+      ".G...": {
+        "children": {
+          ".....": {
+            "children": {
+              ".G..G": {
+                "guess": "mamma",
+                "n": 1
+              }
+            },
+            "guess": "kappa",
+            "n": 2
+          },
+          "....G": {
+            "children": {
+              ".G..G": {
+                "guess": "mammy",
+                "n": 1
+              },
+              ".GGGG": {
+                "guess": "paddy",
+                "n": 1
+              }
+            },
+            "guess": "caddy",
+            "n": 3
+          },
+          "...YG": {
+            "guess": "gayly",
+            "n": 1
+          },
+          "..G.G": {
+            "guess": "fanny",
+            "n": 1
+          },
+          "..GGG": {
+            "guess": "mangy",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "fauna",
+            "n": 1
+          },
+          "..YY.": {
+            "guess": "pagan",
+            "n": 1
+          },
+          ".Y...": {
+            "guess": "cavil",
+            "n": 1
+          },
+          ".Y..G": {
+            "guess": "daily",
+            "n": 1
+          },
+          ".Y.YG": {
+            "guess": "gaily",
+            "n": 1
+          },
+          "G..GG": {
+            "guess": "baggy",
+            "n": 1
+          },
+          "Y....": {
+            "guess": "cabal",
+            "n": 1
+          },
+          "Y...G": {
+            "guess": "cabby",
+            "n": 1
+          },
+          "YYY..": {
+            "guess": "cabin",
+            "n": 1
+          }
+        },
+        "guess": "bingy",
+        "n": 17
+      },
+      ".G..G": {
+        "children": {
+          ".G..G": {
+            "guess": "radar",
+            "n": 1
+          },
+          ".G.GG": {
+            "guess": "razor",
+            "n": 1
+          },
+          "GG.GG": {
+            "guess": "vapor",
+            "n": 1
+          }
+        },
+        "guess": "valor",
+        "n": 4
+      },
+      ".G..Y": {
+        "children": {
+          ".....": {
+            "guess": "rajah",
+            "n": 1
+          },
+          "....G": {
+            "children": {
+              "GGG.G": {
+                "guess": "harry",
+                "n": 1
+              }
+            },
+            "guess": "harpy",
+            "n": 2
+          },
+          "...GG": {
+            "guess": "rally",
+            "n": 1
+          },
+          "...Y.": {
+            "guess": "ralph",
+            "n": 1
+          },
+          "..G..": {
+            "guess": "cairn",
+            "n": 1
+          },
+          "..G.G": {
+            "guess": "fairy",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "rabbi",
+            "n": 1
+          },
+          ".Y...": {
+            "guess": "macro",
+            "n": 1
+          },
+          "G.G.G": {
+            "guess": "dairy",
+            "n": 1
+          },
+          "Y...G": {
+            "guess": "randy",
+            "n": 1
+          },
+          "Y.Y..": {
+            "guess": "radii",
+            "n": 1
+          }
+        },
+        "guess": "doily",
+        "n": 12
+      },
+      ".G.G.": {
+        "children": {
+          ".G.G.": {
+            "guess": "oaken",
+            "n": 1
+          },
+          ".G.GY": {
+            "guess": "payee",
+            "n": 1
+          }
+        },
+        "guess": "cagey",
+        "n": 3
+      },
+      ".G.GG": {
+        "children": {
+          "Y..G.": {
+            "guess": "rarer",
+            "n": 1
+          },
+          "Y..GY": {
+            "guess": "payer",
+            "n": 1
+          },
+          "Y.GG.": {
+            "guess": "paler",
+            "n": 1
+          },
+          "YY.G.": {
+            "guess": "gazer",
+            "n": 1
+          },
+          "YY.GY": {
+            "guess": "gayer",
+            "n": 1
+          }
+        },
+        "guess": "agley",
+        "n": 5
+      },
+      ".G.GY": {
+        "children": {
+          ".GYG.": {
+            "guess": "raven",
+            "n": 1
+          }
+        },
+        "guess": "harem",
+        "n": 2
+      },
+      ".G.Y.": {
+        "children": {
+          ".G..G": {
+            "guess": "waive",
+            "n": 1
+          },
+          "YG..G": {
+            "guess": "mange",
+            "n": 1
+          }
+        },
+        "guess": "gaffe",
+        "n": 3
+      },
+      ".GG..": {
+        "children": {
+          ".GG..": {
+            "guess": "tatty",
+            "n": 1
+          },
+          "GGG..": {
+            "guess": "fatty",
+            "n": 1
+          }
+        },
+        "guess": "fatal",
+        "n": 3
+      },
+      ".GGGG": {
+        "guess": "eater",
+        "n": 1
+      },
+      ".GY..": {
+        "children": {
+          ".G..G": {
+            "guess": "taint",
+            "n": 1
+          },
+          ".G..Y": {
+            "guess": "tango",
+            "n": 1
+          },
+          ".G.YG": {
+            "guess": "vaunt",
+            "n": 1
+          }
+        },
+        "guess": "caput",
+        "n": 4
+      },
+      ".GY.Y": {
+        "children": {
+          "YGG..": {
+            "guess": "warty",
+            "n": 1
+          }
+        },
+        "guess": "tarot",
+        "n": 2
+      },
+      ".GYGG": {
+        "children": {
+          "GG.GG": {
+            "guess": "tamer",
+            "n": 1
+          }
+        },
+        "guess": "taker",
+        "n": 2
+      },
+      ".GYY.": {
+        "guess": "haute",
+        "n": 1
+      },
+      ".Y...": {
+        "children": {
+          "G..YY": {
+            "guess": "aping",
+            "n": 1
+          },
+          "G.YYG": {
+            "guess": "axion",
+            "n": 1
+          },
+          "GG...": {
+            "guess": "allay",
+            "n": 1
+          },
+          "GY..Y": {
+            "guess": "annul",
+            "n": 1
+          },
+          "GY.Y.": {
+            "guess": "axial",
+            "n": 1
+          },
+          "GYG..": {
+            "guess": "afoul",
+            "n": 1
+          },
+          "Y....": {
+            "guess": "chaff",
+            "n": 1
+          },
+          "Y..YY": {
+            "guess": "china",
+            "n": 1
+          },
+          "Y.Y..": {
+            "guess": "mocha",
+            "n": 1
+          },
+          "Y.Y.Y": {
+            "guess": "gonad",
+            "n": 1
+          },
+          "YG...": {
+            "guess": "flack",
+            "n": 1
+          },
+          "YG..Y": {
+            "guess": "clank",
+            "n": 1
+          },
+          "YG.G.": {
+            "guess": "claim",
+            "n": 1
+          },
+          "YG.Y.": {
+            "guess": "iliac",
+            "n": 1
+          },
+          "YYY..": {
+            "guess": "loamy",
+            "n": 1
+          },
+          "YYY.Y": {
+            "guess": "zonal",
+            "n": 1
+          }
+        },
+        "guess": "aloin",
+        "n": 16
+      },
+      ".Y..G": {
+        "children": {
+          "G...G": {
+            "guess": "augur",
+            "n": 1
+          },
+          "Y...G": {
+            "guess": "vicar",
+            "n": 1
+          },
+          "YG..G": {
+            "guess": "friar",
+            "n": 1
+          }
+        },
+        "guess": "armor",
+        "n": 4
+      },
+      ".Y..Y": {
+        "children": {
+          ".GG..": {
+            "guess": "crack",
+            "n": 1
+          },
+          ".GGGG": {
+            "guess": "brawl",
+            "n": 1
+          },
+          ".GGY.": {
+            "guess": "wrack",
+            "n": 1
+          },
+          ".GY..": {
+            "guess": "array",
+            "n": 1
+          },
+          ".YG..": {
+            "guess": "ovary",
+            "n": 1
+          },
+          ".YY..": {
+            "guess": "cobra",
+            "n": 1
+          },
+          "GGG..": {
+            "guess": "drank",
+            "n": 1
+          },
+          "YGG..": {
+            "guess": "fraud",
+            "n": 1
+          },
+          "YYY..": {
+            "guess": "adorn",
+            "n": 1
+          }
+        },
+        "guess": "drawl",
+        "n": 10
+      },
+      ".Y.G.": {
+        "children": {
+          "G..G.": {
+            "guess": "apnea",
+            "n": 1
+          }
+        },
+        "guess": "abled",
+        "n": 2
+      },
+      ".Y.GG": {
+        "guess": "aider",
+        "n": 1
+      },
+      ".Y.Y.": {
+        "children": {
+          "....G": {
+            "guess": "fella",
+            "n": 1
+          },
+          "...GG": {
+            "guess": "mecca",
+            "n": 1
+          },
+          "G....": {
+            "guess": "anime",
+            "n": 1
+          },
+          "G.Y..": {
+            "guess": "algae",
+            "n": 1
+          },
+          "GG...": {
+            "guess": "abode",
+            "n": 1
+          },
+          "Y..Y.": {
+            "guess": "fecal",
+            "n": 1
+          },
+          "YY...": {
+            "guess": "began",
+            "n": 1
+          }
+        },
+        "guess": "abaca",
+        "n": 7
+      },
+      ".Y.YG": {
+        "children": {
+          ".GGGG": {
+            "guess": "rebar",
+            "n": 1
+          }
+        },
+        "guess": "debar",
+        "n": 2
+      },
+      ".Y.YY": {
+        "children": {
+          "G..YY": {
+            "guess": "arena",
+            "n": 1
+          },
+          "Y..GY": {
+            "guess": "rearm",
+            "n": 1
+          },
+          "Y..YG": {
+            "guess": "graze",
+            "n": 1
+          },
+          "Y..YY": {
+            "guess": "renal",
+            "n": 1
+          }
+        },
+        "guess": "afire",
+        "n": 5
+      },
+      ".YG..": {
+        "guess": "octal",
+        "n": 1
+      },
+      ".YGY.": {
+        "guess": "fetal",
+        "n": 1
+      },
+      ".YY..": {
+        "children": {
+          "...GY": {
+            "guess": "amity",
+            "n": 1
+          },
+          "...YY": {
+            "guess": "bloat",
+            "n": 1
+          },
+          "..GYG": {
+            "guess": "tonga",
+            "n": 1
+          },
+          "..GYY": {
+            "guess": "tonal",
+            "n": 1
+          },
+          ".G.YY": {
+            "guess": "tubal",
+            "n": 1
+          },
+          ".GGGY": {
+            "guess": "aunty",
+            "n": 1
+          }
+        },
+        "guess": "junta",
+        "n": 7
+      },
+      ".YY.Y": {
+        "children": {
+          "Y..YY": {
+            "guess": "tramp",
+            "n": 1
+          }
+        },
+        "guess": "abort",
+        "n": 2
+      },
+      ".YYY.": {
+        "children": {
+          "..YGG": {
+            "guess": "begat",
+            "n": 1
+          },
+          "..YYY": {
+            "guess": "meaty",
+            "n": 1
+          },
+          ".YYYG": {
+            "guess": "leant",
+            "n": 1
+          },
+          "YYYGG": {
+            "guess": "eclat",
+            "n": 1
+          }
+        },
+        "guess": "cleat",
+        "n": 5
+      },
+      ".YYYY": {
+        "children": {
+          "GYY.Y": {
+            "guess": "tread",
+            "n": 1
+          }
+        },
+        "guess": "terra",
+        "n": 2
+      },
+      "G....": {
+        "children": {
+          ".....": {
+            "guess": "slyly",
+            "n": 1
+          },
+          "....G": {
+            "children": {
+              "G...G": {
+                "guess": "spook",
+                "n": 1
+              }
+            },
+            "guess": "skulk",
+            "n": 2
+          },
+          "....Y": {
+            "guess": "smoky",
+            "n": 1
+          },
+          "...GG": {
+            "children": {
+              "G.GGG": {
+                "guess": "spunk",
+                "n": 1
+              }
+            },
+            "guess": "slunk",
+            "n": 2
+          },
+          "...Y.": {
+            "children": {
+              "GY...": {
+                "guess": "synod",
+                "n": 1
+              }
+            },
+            "guess": "snuff",
+            "n": 2
+          },
+          "..G..": {
+            "guess": "slimy",
+            "n": 1
+          },
+          "..G.Y": {
+            "guess": "spiky",
+            "n": 1
+          },
+          "..GG.": {
+            "guess": "suing",
+            "n": 1
+          },
+          "..GGG": {
+            "guess": "slink",
+            "n": 1
+          },
+          "..GY.": {
+            "guess": "sniff",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "squib",
+            "n": 1
+          },
+          "..Y.Y": {
+            "guess": "silky",
+            "n": 1
+          },
+          ".G..G": {
+            "guess": "shook",
+            "n": 1
+          },
+          ".GGG.": {
+            "guess": "shiny",
+            "n": 1
+          },
+          "Y..YG": {
+            "guess": "snuck",
+            "n": 1
+          },
+          "Y.GY.": {
+            "guess": "scion",
+            "n": 1
+          },
+          "YG..G": {
+            "guess": "shock",
+            "n": 1
+          }
+        },
+        "guess": "chink",
+        "n": 20
+      },
+      "G...Y": {
+        "children": {
+          "G.GGY": {
+            "guess": "spurn",
+            "n": 1
+          }
+        },
+        "guess": "slurp",
+        "n": 2
+      },
+      "G..G.": {
+        "children": {
+          "G..G.": {
+            "guess": "spied",
+            "n": 1
+          },
+          "G..GY": {
+            "guess": "sinew",
+            "n": 1
+          },
+          "G.YGG": {
+            "guess": "semen",
+            "n": 1
+          },
+          "GG.G.": {
+            "guess": "shied",
+            "n": 1
+          }
+        },
+        "guess": "sheen",
+        "n": 5
+      },
+      "G..GG": {
+        "children": {
+          "G.GGG": {
+            "guess": "sneer",
+            "n": 1
+          },
+          "G.YGG": {
+            "guess": "sewer",
+            "n": 1
+          }
+        },
+        "guess": "sheer",
+        "n": 3
+      },
+      "G..GY": {
+        "children": {
+          "G.GG.": {
+            "guess": "shrew",
+            "n": 1
+          },
+          "G.GGG": {
+            "guess": "spree",
+            "n": 1
+          },
+          "GGGG.": {
+            "guess": "screw",
+            "n": 1
+          }
+        },
+        "guess": "scree",
+        "n": 4
+      },
+      "G..Y.": {
+        "children": {
+          "G.G.G": {
+            "guess": "slide",
+            "n": 1
+          },
+          "GYY..": {
+            "guess": "sheik",
+            "n": 1
+          },
+          "GYY.G": {
+            "guess": "sieve",
+            "n": 1
+          }
+        },
+        "guess": "seize",
+        "n": 4
+      },
+      "G..YY": {
+        "children": {
+          "G.YG.": {
+            "guess": "swore",
+            "n": 1
+          }
+        },
+        "guess": "sperm",
+        "n": 2
+      },
+      "G.GY.": {
+        "guess": "setup",
+        "n": 1
+      },
+      "G.Y..": {
+        "children": {
+          ".....": {
+            "guess": "swift",
+            "n": 1
+          },
+          "....Y": {
+            "guess": "stunk",
+            "n": 1
+          },
+          "...Y.": {
+            "guess": "spilt",
+            "n": 1
+          },
+          "..Y..": {
+            "guess": "sixty",
+            "n": 1
+          },
+          ".G...": {
+            "guess": "sooth",
+            "n": 1
+          },
+          ".GY..": {
+            "guess": "sooty",
+            "n": 1
+          },
+          ".Y...": {
+            "guess": "shoot",
+            "n": 1
+          },
+          ".Y.Y.": {
+            "guess": "stoop",
+            "n": 1
+          },
+          "Y...Y": {
+            "guess": "stuck",
+            "n": 1
+          }
+        },
+        "guess": "coypu",
+        "n": 9
+      },
+      "G.Y.Y": {
+        "guess": "shirt",
+        "n": 1
+      },
+      "G.YG.": {
+        "guess": "sleet",
+        "n": 1
+      },
+      "G.YGG": {
+        "guess": "steer",
+        "n": 1
+      },
+      "G.YY.": {
+        "children": {
+          "G.GGG": {
+            "guess": "swept",
+            "n": 1
+          },
+          "G.Y.Y": {
+            "guess": "smote",
+            "n": 1
+          }
+        },
+        "guess": "slept",
+        "n": 3
+      },
+      "GG...": {
+        "children": {
+          "GG...": {
+            "guess": "sappy",
+            "n": 1
+          },
+          "GG.G.": {
+            "guess": "savoy",
+            "n": 1
+          },
+          "GGGY.": {
+            "guess": "salvo",
+            "n": 1
+          },
+          "GGY..": {
+            "guess": "sadly",
+            "n": 1
+          }
+        },
+        "guess": "salon",
+        "n": 5
+      },
+      "GG.GG": {
+        "children": {
+          "GG.GG": {
+            "guess": "saner",
+            "n": 1
+          }
+        },
+        "guess": "safer",
+        "n": 2
+      },
+      "GG.Y.": {
+        "children": {
+          "GG..G": {
+            "guess": "sauce",
+            "n": 1
+          }
+        },
+        "guess": "salve",
+        "n": 2
+      },
+      "GGG.G": {
+        "guess": "satyr",
+        "n": 1
+      },
+      "GY...": {
+        "children": {
+          ".....": {
+            "guess": "sigma",
+            "n": 1
+          },
+          "....G": {
+            "guess": "swash",
+            "n": 1
+          },
+          "...G.": {
+            "guess": "smack",
+            "n": 1
+          },
+          "...GY": {
+            "guess": "shack",
+            "n": 1
+          },
+          "...Y.": {
+            "guess": "scamp",
+            "n": 1
+          },
+          "..Y..": {
+            "children": {
+              "GGGY.": {
+                "guess": "spawn",
+                "n": 1
+              }
+            },
+            "guess": "spank",
+            "n": 2
+          },
+          ".Y...": {
+            "guess": "soapy",
+            "n": 1
+          },
+          ".Y..Y": {
+            "guess": "shady",
+            "n": 1
+          },
+          "Y...G": {
+            "guess": "slash",
+            "n": 1
+          },
+          "Y..G.": {
+            "guess": "slack",
+            "n": 1
+          },
+          "Y..Y.": {
+            "guess": "scalp",
+            "n": 1
+          },
+          "Y.Y..": {
+            "guess": "slain",
+            "n": 1
+          },
+          "YY.Y.": {
+            "guess": "scaly",
+            "n": 1
+          }
+        },
+        "guess": "lynch",
+        "n": 14
+      },
+      "GY..Y": {
+        "children": {
+          "..G..": {
+            "guess": "swarm",
+            "n": 1
+          },
+          "..G.G": {
+            "guess": "shark",
+            "n": 1
+          },
+          "..GY.": {
+            "guess": "scary",
+            "n": 1
+          }
+        },
+        "guess": "aback",
+        "n": 3
+      },
+      "GY.Y.": {
+        "guess": "shale",
+        "n": 1
+      },
+      "GY.YG": {
+        "guess": "swear",
+        "n": 1
+      },
+      "GYY..": {
+        "children": {
+          "G.GGY": {
+            "guess": "stalk",
+            "n": 1
+          },
+          "G.GYG": {
+            "guess": "slant",
+            "n": 1
+          }
+        },
+        "guess": "shalt",
+        "n": 3
+      },
+      "GYYY.": {
+        "children": {
+          "GGY.Y": {
+            "guess": "steal",
+            "n": 1
+          }
+        },
+        "guess": "stave",
+        "n": 2
+      },
+      "Y....": {
+        "children": {
+          ".....": {
+            "guess": "bison",
+            "n": 1
+          },
+          "...YG": {
+            "children": {
+              "G.GGG": {
+                "guess": "gypsy",
+                "n": 1
+              }
+            },
+            "guess": "gipsy",
+            "n": 2
+          },
+          "..Y..": {
+            "guess": "bosom",
+            "n": 1
+          },
+          "..Y.G": {
+            "guess": "missy",
+            "n": 1
+          },
+          ".G..G": {
+            "guess": "fussy",
+            "n": 1
+          },
+          ".G.Y.": {
+            "guess": "lupus",
+            "n": 1
+          },
+          ".GY..": {
+            "guess": "mucus",
+            "n": 1
+          },
+          ".GY.G": {
+            "guess": "musky",
+            "n": 1
+          },
+          ".Y...": {
+            "guess": "ficus",
+            "n": 1
+          },
+          "GG..G": {
+            "children": {
+              "GGG.G": {
+                "guess": "hussy",
+                "n": 1
+              }
+            },
+            "guess": "husky",
+            "n": 2
+          },
+          "GGG..": {
+            "guess": "humus",
+            "n": 1
+          },
+          "YG..G": {
+            "guess": "bushy",
+            "n": 1
+          },
+          "YG.YG": {
+            "guess": "pushy",
+            "n": 1
+          },
+          "YY...": {
+            "guess": "flush",
+            "n": 1
+          },
+          "YY.Y.": {
+            "guess": "plush",
+            "n": 1
+          }
+        },
+        "guess": "humpy",
+        "n": 17
+      },
+      "Y...Y": {
+        "children": {
+          ".G.G.": {
+            "guess": "frisk",
+            "n": 1
+          },
+          ".Y..G": {
+            "guess": "virus",
+            "n": 1
+          },
+          ".Y.Y.": {
+            "guess": "risky",
+            "n": 1
+          }
+        },
+        "guess": "dross",
+        "n": 4
+      },
+      "Y..G.": {
+        "children": {
+          "..GG.": {
+            "guess": "nosey",
+            "n": 1
+          }
+        },
+        "guess": "bused",
+        "n": 2
+      },
+      "Y..Y.": {
+        "children": {
+          "...GG": {
+            "guess": "pulse",
+            "n": 1
+          },
+          "..GG.": {
+            "guess": "chess",
+            "n": 1
+          },
+          "..YG.": {
+            "guess": "welsh",
+            "n": 1
+          },
+          ".YGG.": {
+            "guess": "bless",
+            "n": 1
+          },
+          "Y..GG": {
+            "guess": "noose",
+            "n": 1
+          },
+          "Y.GG.": {
+            "guess": "poesy",
+            "n": 1
+          }
+        },
+        "guess": "obese",
+        "n": 7
+      },
+      "Y..YY": {
+        "children": {
+          ".GGGG": {
+            "guess": "dress",
+            "n": 1
+          },
+          ".YYG.": {
+            "guess": "verso",
+            "n": 1
+          }
+        },
+        "guess": "cress",
+        "n": 3
+      },
+      "Y.GGG": {
+        "guess": "ester",
+        "n": 1
+      },
+      "Y.GY.": {
+        "guess": "fetus",
+        "n": 1
+      },
+      "Y.Y..": {
+        "guess": "gusto",
+        "n": 1
+      },
+      "Y.Y.Y": {
+        "guess": "torus",
+        "n": 1
+      },
+      "Y.YG.": {
+        "guess": "unset",
+        "n": 1
+      },
+      "Y.YGY": {
+        "guess": "reset",
+        "n": 1
+      },
+      "Y.YY.": {
+        "children": {
+          ".GYY.": {
+            "guess": "tense",
+            "n": 1
+          }
+        },
+        "guess": "pesto",
+        "n": 2
+      },
+      "Y.YYY": {
+        "guess": "wrest",
+        "n": 1
+      },
+      "YG...": {
+        "children": {
+          ".GG..": {
+            "guess": "gassy",
+            "n": 1
+          },
+          ".GY..": {
+            "guess": "pansy",
+            "n": 1
+          },
+          ".GY.Y": {
+            "guess": "palsy",
+            "n": 1
+          }
+        },
+        "guess": "basal",
+        "n": 4
+      },
+      "YG..Y": {
+        "guess": "raspy",
+        "n": 1
+      },
+      "YG.YY": {
+        "guess": "parse",
+        "n": 1
+      },
+      "YGY..": {
+        "guess": "pasty",
+        "n": 1
+      },
+      "YGYY.": {
+        "children": {
+          ".GGGG": {
+            "guess": "paste",
+            "n": 1
+          }
+        },
+        "guess": "caste",
+        "n": 2
+      },
+      "YY...": {
+        "guess": "quasi",
+        "n": 1
+      },
+      "YY..Y": {
+        "guess": "arson",
+        "n": 1
+      },
+      "YY.Y.": {
+        "guess": "abuse",
+        "n": 1
+      },
+      "YY.YY": {
+        "guess": "arose",
+        "n": 1
+      },
+      "YYY..": {
+        "guess": "vista",
+        "n": 1
+      },
+      "YYY.Y": {
+        "guess": "roast",
+        "n": 1
+      }
+    },
+    "guess": "sater",
+    "n": 465
+  },
+  "universe": "unused"
+}

@@ -1,0 +1,23 @@
+{
+  "against": "history-seq",
+  "dist": {
+    "avg": 3.5181159420289854,
+    "fail": 0,
+    "n": 1932,
+    "p_3or4": 0.8804347826086957,
+    "p_le3": 0.5041407867494824,
+    "p_le4": 0.932712215320911,
+    "solved_in": {
+      "1": 0,
+      "2": 101,
+      "3": 873,
+      "4": 828,
+      "5": 116,
+      "6": 14
+    }
+  },
+  "hard": true,
+  "hard_violations": 0,
+  "misses": [],
+  "tree": "tree_full_expected-hard.json"
+}

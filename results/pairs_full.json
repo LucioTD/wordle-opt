@@ -1,0 +1,909 @@
+{
+  "evaluated_full": 3686,
+  "pairs_total": 110328085,
+  "pruned_bound": 6148906,
+  "pruned_mid": 104175493,
+  "seconds": 18.3699579,
+  "top": [
+    {
+      "buckets": 1113,
+      "exp_size": 4.481450252951096,
+      "first": "soare",
+      "p_le3": 0.46922428330522764,
+      "p_le4_adaptive_third": 0.9624789207419899,
+      "second": "clint",
+      "worst": 26
+    },
+    {
+      "buckets": 1100,
+      "exp_size": 4.461214165261382,
+      "first": "roast",
+      "p_le3": 0.463743676222597,
+      "p_le4_adaptive_third": 0.965008431703204,
+      "second": "cline",
+      "worst": 25
+    },
+    {
+      "buckets": 1096,
+      "exp_size": 4.435919055649241,
+      "first": "clast",
+      "p_le3": 0.4620573355817875,
+      "p_le4_adaptive_third": 0.9666947723440135,
+      "second": "rione",
+      "worst": 25
+    },
+    {
+      "buckets": 1096,
+      "exp_size": 4.435919055649241,
+      "first": "riant",
+      "p_le3": 0.4620573355817875,
+      "p_le4_adaptive_third": 0.9666947723440135,
+      "second": "close",
+      "worst": 25
+    },
+    {
+      "buckets": 1096,
+      "exp_size": 4.405564924114671,
+      "first": "riant",
+      "p_le3": 0.4620573355817875,
+      "p_le4_adaptive_third": 0.968381112984823,
+      "second": "socle",
+      "worst": 25
+    },
+    {
+      "buckets": 1096,
+      "exp_size": 4.509274873524452,
+      "first": "saint",
+      "p_le3": 0.4620573355817875,
+      "p_le4_adaptive_third": 0.9675379426644182,
+      "second": "ceorl",
+      "worst": 23
+    },
+    {
+      "buckets": 1095,
+      "exp_size": 5.182967959527825,
+      "first": "carne",
+      "p_le3": 0.46163575042158517,
+      "p_le4_adaptive_third": 0.9734401349072512,
+      "second": "spilt",
+      "worst": 35
+    },
+    {
+      "buckets": 1095,
+      "exp_size": 4.4949409780775715,
+      "first": "crine",
+      "p_le3": 0.46163575042158517,
+      "p_le4_adaptive_third": 0.9675379426644182,
+      "second": "loast",
+      "worst": 23
+    },
+    {
+      "buckets": 1094,
+      "exp_size": 4.479763912310287,
+      "first": "trail",
+      "p_le3": 0.4612141652613828,
+      "p_le4_adaptive_third": 0.9679595278246206,
+      "second": "sonce",
+      "worst": 23
+    },
+    {
+      "buckets": 1093,
+      "exp_size": 5.161045531197302,
+      "first": "carne",
+      "p_le3": 0.46079258010118046,
+      "p_le4_adaptive_third": 0.9717537942664418,
+      "second": "slipt",
+      "worst": 35
+    },
+    {
+      "buckets": 1091,
+      "exp_size": 5.199831365935919,
+      "first": "parse",
+      "p_le3": 0.4599494097807757,
+      "p_le4_adaptive_third": 0.9717537942664418,
+      "second": "clint",
+      "worst": 35
+    },
+    {
+      "buckets": 1091,
+      "exp_size": 4.587689713322091,
+      "first": "sonce",
+      "p_le3": 0.4599494097807757,
+      "p_le4_adaptive_third": 0.9616357504215851,
+      "second": "liart",
+      "worst": 26
+    },
+    {
+      "buckets": 1087,
+      "exp_size": 4.525295109612141,
+      "first": "liane",
+      "p_le3": 0.4582630691399663,
+      "p_le4_adaptive_third": 0.9671163575042159,
+      "second": "crost",
+      "worst": 23
+    },
+    {
+      "buckets": 1087,
+      "exp_size": 5.306070826306914,
+      "first": "slant",
+      "p_le3": 0.4582630691399663,
+      "p_le4_adaptive_third": 0.9700674536256324,
+      "second": "price",
+      "worst": 34
+    },
+    {
+      "buckets": 1086,
+      "exp_size": 5.263069139966273,
+      "first": "crane",
+      "p_le3": 0.45784148397976393,
+      "p_le4_adaptive_third": 0.9721753794266442,
+      "second": "spilt",
+      "worst": 34
+    },
+    {
+      "buckets": 1086,
+      "exp_size": 5.263069139966273,
+      "first": "crine",
+      "p_le3": 0.45784148397976393,
+      "p_le4_adaptive_third": 0.9721753794266442,
+      "second": "spalt",
+      "worst": 34
+    },
+    {
+      "buckets": 1085,
+      "exp_size": 4.466273187183811,
+      "first": "lance",
+      "p_le3": 0.4574198988195616,
+      "p_le4_adaptive_third": 0.9692242833052277,
+      "second": "roist",
+      "worst": 25
+    },
+    {
+      "buckets": 1084,
+      "exp_size": 5.285834738617201,
+      "first": "crane",
+      "p_le3": 0.45699831365935917,
+      "p_le4_adaptive_third": 0.9704890387858347,
+      "second": "slipt",
+      "worst": 34
+    },
+    {
+      "buckets": 1084,
+      "exp_size": 5.285834738617201,
+      "first": "slant",
+      "p_le3": 0.45699831365935917,
+      "p_le4_adaptive_third": 0.9704890387858347,
+      "second": "cripe",
+      "worst": 34
+    },
+    {
+      "buckets": 1083,
+      "exp_size": 4.824620573355818,
+      "first": "carle",
+      "p_le3": 0.4565767284991568,
+      "p_le4_adaptive_third": 0.9662731871838112,
+      "second": "suint",
+      "worst": 31
+    },
+    {
+      "buckets": 1083,
+      "exp_size": 4.437605396290051,
+      "first": "sarin",
+      "p_le3": 0.4565767284991568,
+      "p_le4_adaptive_third": null,
+      "second": "clote",
+      "worst": 21
+    },
+    {
+      "buckets": 1082,
+      "exp_size": 4.559865092748735,
+      "first": "loast",
+      "p_le3": 0.45615514333895446,
+      "p_le4_adaptive_third": null,
+      "second": "rince",
+      "worst": 25
+    },
+    {
+      "buckets": 1081,
+      "exp_size": 4.56070826306914,
+      "first": "crane",
+      "p_le3": 0.4557335581787521,
+      "p_le4_adaptive_third": null,
+      "second": "toils",
+      "worst": 23
+    },
+    {
+      "buckets": 1081,
+      "exp_size": 4.56070826306914,
+      "first": "toile",
+      "p_le3": 0.4557335581787521,
+      "p_le4_adaptive_third": null,
+      "second": "crans",
+      "worst": 23
+    },
+    {
+      "buckets": 1081,
+      "exp_size": 4.56070826306914,
+      "first": "trine",
+      "p_le3": 0.4557335581787521,
+      "p_le4_adaptive_third": null,
+      "second": "coals",
+      "worst": 23
+    },
+    {
+      "buckets": 1079,
+      "exp_size": 4.470489038785835,
+      "first": "trice",
+      "p_le3": 0.4548903878583474,
+      "p_le4_adaptive_third": null,
+      "second": "salon",
+      "worst": 23
+    },
+    {
+      "buckets": 1078,
+      "exp_size": 4.491568296795953,
+      "first": "carne",
+      "p_le3": 0.45446880269814505,
+      "p_le4_adaptive_third": null,
+      "second": "toils",
+      "worst": 21
+    },
+    {
+      "buckets": 1078,
+      "exp_size": 5.338111298482294,
+      "first": "crise",
+      "p_le3": 0.45446880269814505,
+      "p_le4_adaptive_third": null,
+      "second": "plant",
+      "worst": 34
+    },
+    {
+      "buckets": 1078,
+      "exp_size": 5.338111298482294,
+      "first": "plast",
+      "p_le3": 0.45446880269814505,
+      "p_le4_adaptive_third": null,
+      "second": "crine",
+      "worst": 34
+    },
+    {
+      "buckets": 1078,
+      "exp_size": 5.338111298482294,
+      "first": "prase",
+      "p_le3": 0.45446880269814505,
+      "p_le4_adaptive_third": null,
+      "second": "clint",
+      "worst": 34
+    },
+    {
+      "buckets": 1078,
+      "exp_size": 5.412310286677909,
+      "first": "spice",
+      "p_le3": 0.45446880269814505,
+      "p_le4_adaptive_third": null,
+      "second": "larnt",
+      "worst": 35
+    },
+    {
+      "buckets": 1078,
+      "exp_size": 4.491568296795953,
+      "first": "toile",
+      "p_le3": 0.45446880269814505,
+      "p_le4_adaptive_third": null,
+      "second": "carns",
+      "worst": 21
+    },
+    {
+      "buckets": 1077,
+      "exp_size": 5.004215851602024,
+      "first": "slant",
+      "p_le3": 0.45404721753794264,
+      "p_le4_adaptive_third": null,
+      "second": "drice",
+      "worst": 32
+    },
+    {
+      "buckets": 1077,
+      "exp_size": 5.004215851602024,
+      "first": "slice",
+      "p_le3": 0.45404721753794264,
+      "p_le4_adaptive_third": null,
+      "second": "drant",
+      "worst": 32
+    },
+    {
+      "buckets": 1077,
+      "exp_size": 4.523608768971332,
+      "first": "toran",
+      "p_le3": 0.45404721753794264,
+      "p_le4_adaptive_third": null,
+      "second": "slice",
+      "worst": 21
+    },
+    {
+      "buckets": 1076,
+      "exp_size": 4.623946037099494,
+      "first": "clart",
+      "p_le3": 0.4536256323777403,
+      "p_le4_adaptive_third": null,
+      "second": "noise",
+      "worst": 26
+    },
+    {
+      "buckets": 1076,
+      "exp_size": 4.623946037099494,
+      "first": "clast",
+      "p_le3": 0.4536256323777403,
+      "p_le4_adaptive_third": null,
+      "second": "noire",
+      "worst": 26
+    },
+    {
+      "buckets": 1076,
+      "exp_size": 4.629848229342327,
+      "first": "clast",
+      "p_le3": 0.4536256323777403,
+      "p_le4_adaptive_third": null,
+      "second": "norie",
+      "worst": 24
+    },
+    {
+      "buckets": 1076,
+      "exp_size": 5.240303541315345,
+      "first": "siren",
+      "p_le3": 0.4536256323777403,
+      "p_le4_adaptive_third": null,
+      "second": "clapt",
+      "worst": 30
+    },
+    {
+      "buckets": 1076,
+      "exp_size": 4.503372681281619,
+      "first": "tarse",
+      "p_le3": 0.4536256323777403,
+      "p_le4_adaptive_third": null,
+      "second": "colin",
+      "worst": 21
+    },
+    {
+      "buckets": 1075,
+      "exp_size": 5.276559865092748,
+      "first": "caple",
+      "p_le3": 0.45320404721753793,
+      "p_le4_adaptive_third": null,
+      "second": "snirt",
+      "worst": 36
+    },
+    {
+      "buckets": 1075,
+      "exp_size": 5.5210792580101185,
+      "first": "clart",
+      "p_le3": 0.45320404721753793,
+      "p_le4_adaptive_third": null,
+      "second": "spine",
+      "worst": 36
+    },
+    {
+      "buckets": 1075,
+      "exp_size": 5.5370994940978076,
+      "first": "place",
+      "p_le3": 0.45320404721753793,
+      "p_le4_adaptive_third": null,
+      "second": "snirt",
+      "worst": 36
+    },
+    {
+      "buckets": 1075,
+      "exp_size": 5.5210792580101185,
+      "first": "spare",
+      "p_le3": 0.45320404721753793,
+      "p_le4_adaptive_third": null,
+      "second": "clint",
+      "worst": 36
+    },
+    {
+      "buckets": 1075,
+      "exp_size": 5.5210792580101185,
+      "first": "spart",
+      "p_le3": 0.45320404721753793,
+      "p_le4_adaptive_third": null,
+      "second": "cline",
+      "worst": 36
+    },
+    {
+      "buckets": 1074,
+      "exp_size": 5.513490725126475,
+      "first": "clart",
+      "p_le3": 0.4527824620573356,
+      "p_le4_adaptive_third": null,
+      "second": "snipe",
+      "worst": 36
+    },
+    {
+      "buckets": 1074,
+      "exp_size": 5.513490725126475,
+      "first": "snare",
+      "p_le3": 0.4527824620573356,
+      "p_le4_adaptive_third": null,
+      "second": "clipt",
+      "worst": 36
+    },
+    {
+      "buckets": 1073,
+      "exp_size": 5.274873524451939,
+      "first": "carne",
+      "p_le3": 0.4523608768971332,
+      "p_le4_adaptive_third": null,
+      "second": "split",
+      "worst": 35
+    },
+    {
+      "buckets": 1072,
+      "exp_size": 4.684654300168634,
+      "first": "orant",
+      "p_le3": 0.45193929173693087,
+      "p_le4_adaptive_third": null,
+      "second": "slice",
+      "worst": 23
+    },
+    {
+      "buckets": 1072,
+      "exp_size": 4.71079258010118,
+      "first": "snare",
+      "p_le3": 0.45193929173693087,
+      "p_le4_adaptive_third": null,
+      "second": "doilt",
+      "worst": 27
+    },
+    {
+      "buckets": 1072,
+      "exp_size": 4.566610455311973,
+      "first": "train",
+      "p_le3": 0.45193929173693087,
+      "p_le4_adaptive_third": null,
+      "second": "close",
+      "worst": 23
+    },
+    {
+      "buckets": 1071,
+      "exp_size": 5.0674536256323774,
+      "first": "crane",
+      "p_le3": 0.4515177065767285,
+      "p_le4_adaptive_third": null,
+      "second": "doilt",
+      "worst": 27
+    },
+    {
+      "buckets": 1071,
+      "exp_size": 5.483136593591905,
+      "first": "slart",
+      "p_le3": 0.4515177065767285,
+      "p_le4_adaptive_third": null,
+      "second": "pince",
+      "worst": 36
+    },
+    {
+      "buckets": 1070,
+      "exp_size": 4.75716694772344,
+      "first": "canst",
+      "p_le3": 0.45109612141652616,
+      "p_le4_adaptive_third": null,
+      "second": "reoil",
+      "worst": 23
+    },
+    {
+      "buckets": 1070,
+      "exp_size": 4.68212478920742,
+      "first": "cosie",
+      "p_le3": 0.45109612141652616,
+      "p_le4_adaptive_third": null,
+      "second": "larnt",
+      "worst": 21
+    },
+    {
+      "buckets": 1070,
+      "exp_size": 5.293423271500843,
+      "first": "crane",
+      "p_le3": 0.45109612141652616,
+      "p_le4_adaptive_third": null,
+      "second": "split",
+      "worst": 34
+    },
+    {
+      "buckets": 1070,
+      "exp_size": 4.5531197301854975,
+      "first": "crone",
+      "p_le3": 0.45109612141652616,
+      "p_le4_adaptive_third": null,
+      "second": "tails",
+      "worst": 23
+    },
+    {
+      "buckets": 1070,
+      "exp_size": 4.83389544688027,
+      "first": "sault",
+      "p_le3": 0.45109612141652616,
+      "p_le4_adaptive_third": null,
+      "second": "crine",
+      "worst": 31
+    },
+    {
+      "buckets": 1070,
+      "exp_size": 4.938448566610456,
+      "first": "sient",
+      "p_le3": 0.45109612141652616,
+      "p_le4_adaptive_third": null,
+      "second": "carol",
+      "worst": 29
+    },
+    {
+      "buckets": 1070,
+      "exp_size": 4.472175379426644,
+      "first": "train",
+      "p_le3": 0.45109612141652616,
+      "p_le4_adaptive_third": null,
+      "second": "socle",
+      "worst": 23
+    },
+    {
+      "buckets": 1069,
+      "exp_size": 5.143338954468803,
+      "first": "carse",
+      "p_le3": 0.45067453625632375,
+      "p_le4_adaptive_third": null,
+      "second": "ploit",
+      "worst": 24
+    },
+    {
+      "buckets": 1069,
+      "exp_size": 5.202360876897133,
+      "first": "corse",
+      "p_le3": 0.45067453625632375,
+      "p_le4_adaptive_third": null,
+      "second": "plait",
+      "worst": 24
+    },
+    {
+      "buckets": 1069,
+      "exp_size": 5.339797639123103,
+      "first": "rance",
+      "p_le3": 0.45067453625632375,
+      "p_le4_adaptive_third": null,
+      "second": "slipt",
+      "worst": 34
+    },
+    {
+      "buckets": 1068,
+      "exp_size": 4.883642495784148,
+      "first": "carle",
+      "p_le3": 0.4502529510961214,
+      "p_le4_adaptive_third": null,
+      "second": "point",
+      "worst": 26
+    },
+    {
+      "buckets": 1068,
+      "exp_size": 4.947723440134907,
+      "first": "carne",
+      "p_le3": 0.4502529510961214,
+      "p_le4_adaptive_third": null,
+      "second": "sluit",
+      "worst": 31
+    },
+    {
+      "buckets": 1068,
+      "exp_size": 4.524451939291737,
+      "first": "crise",
+      "p_le3": 0.4502529510961214,
+      "p_le4_adaptive_third": null,
+      "second": "talon",
+      "worst": 23
+    },
+    {
+      "buckets": 1068,
+      "exp_size": 4.582630691399663,
+      "first": "liner",
+      "p_le3": 0.4502529510961214,
+      "p_le4_adaptive_third": null,
+      "second": "coast",
+      "worst": 18
+    },
+    {
+      "buckets": 1068,
+      "exp_size": 5.118887015177066,
+      "first": "slant",
+      "p_le3": 0.4502529510961214,
+      "p_le4_adaptive_third": null,
+      "second": "curie",
+      "worst": 31
+    },
+    {
+      "buckets": 1067,
+      "exp_size": 4.709106239460371,
+      "first": "alien",
+      "p_le3": 0.44983136593591905,
+      "p_le4_adaptive_third": null,
+      "second": "crost",
+      "worst": 18
+    },
+    {
+      "buckets": 1067,
+      "exp_size": 5.360876897133221,
+      "first": "rance",
+      "p_le3": 0.44983136593591905,
+      "p_le4_adaptive_third": null,
+      "second": "spilt",
+      "worst": 34
+    },
+    {
+      "buckets": 1066,
+      "exp_size": 5.338954468802698,
+      "first": "carse",
+      "p_le3": 0.4494097807757167,
+      "p_le4_adaptive_third": null,
+      "second": "point",
+      "worst": 29
+    },
+    {
+      "buckets": 1066,
+      "exp_size": 5.064924114671164,
+      "first": "clart",
+      "p_le3": 0.4494097807757167,
+      "p_le4_adaptive_third": null,
+      "second": "poise",
+      "worst": 27
+    },
+    {
+      "buckets": 1066,
+      "exp_size": 5.064924114671164,
+      "first": "clast",
+      "p_le3": 0.4494097807757167,
+      "p_le4_adaptive_third": null,
+      "second": "poire",
+      "worst": 27
+    },
+    {
+      "buckets": 1066,
+      "exp_size": 5.338954468802698,
+      "first": "corse",
+      "p_le3": 0.4494097807757167,
+      "p_le4_adaptive_third": null,
+      "second": "paint",
+      "worst": 29
+    },
+    {
+      "buckets": 1066,
+      "exp_size": 4.814502529510961,
+      "first": "poise",
+      "p_le3": 0.4494097807757167,
+      "p_le4_adaptive_third": null,
+      "second": "larnt",
+      "worst": 26
+    },
+    {
+      "buckets": 1066,
+      "exp_size": 5.515177065767285,
+      "first": "shalt",
+      "p_le3": 0.4494097807757167,
+      "p_le4_adaptive_third": null,
+      "second": "crine",
+      "worst": 37
+    },
+    {
+      "buckets": 1066,
+      "exp_size": 5.176222596964587,
+      "first": "slart",
+      "p_le3": 0.4494097807757167,
+      "p_le4_adaptive_third": null,
+      "second": "ponce",
+      "worst": 33
+    },
+    {
+      "buckets": 1066,
+      "exp_size": 4.7158516020236085,
+      "first": "taros",
+      "p_le3": 0.4494097807757167,
+      "p_le4_adaptive_third": null,
+      "second": "cline",
+      "worst": 21
+    },
+    {
+      "buckets": 1065,
+      "exp_size": 4.77318718381113,
+      "first": "aline",
+      "p_le3": 0.44898819561551434,
+      "p_le4_adaptive_third": null,
+      "second": "crost",
+      "worst": 25
+    },
+    {
+      "buckets": 1065,
+      "exp_size": 4.77318718381113,
+      "first": "alist",
+      "p_le3": 0.44898819561551434,
+      "p_le4_adaptive_third": null,
+      "second": "crone",
+      "worst": 25
+    },
+    {
+      "buckets": 1065,
+      "exp_size": 4.77318718381113,
+      "first": "arose",
+      "p_le3": 0.44898819561551434,
+      "p_le4_adaptive_third": null,
+      "second": "clint",
+      "worst": 25
+    },
+    {
+      "buckets": 1065,
+      "exp_size": 5.520236087689713,
+      "first": "lance",
+      "p_le3": 0.44898819561551434,
+      "p_le4_adaptive_third": null,
+      "second": "sprit",
+      "worst": 35
+    },
+    {
+      "buckets": 1065,
+      "exp_size": 4.521922428330523,
+      "first": "ranse",
+      "p_le3": 0.44898819561551434,
+      "p_le4_adaptive_third": null,
+      "second": "doilt",
+      "worst": 24
+    },
+    {
+      "buckets": 1065,
+      "exp_size": 4.701517706576729,
+      "first": "sonce",
+      "p_le3": 0.44898819561551434,
+      "p_le4_adaptive_third": null,
+      "second": "trial",
+      "worst": 23
+    },
+    {
+      "buckets": 1064,
+      "exp_size": 4.869308600337268,
+      "first": "caret",
+      "p_le3": 0.448566610455312,
+      "p_le4_adaptive_third": null,
+      "second": "lions",
+      "worst": 28
+    },
+    {
+      "buckets": 1064,
+      "exp_size": 4.89629005059022,
+      "first": "carle",
+      "p_le3": 0.448566610455312,
+      "p_le4_adaptive_third": null,
+      "second": "moist",
+      "worst": 24
+    },
+    {
+      "buckets": 1063,
+      "exp_size": 4.497470489038786,
+      "first": "cairn",
+      "p_le3": 0.44814502529510963,
+      "p_le4_adaptive_third": null,
+      "second": "stole",
+      "worst": 23
+    },
+    {
+      "buckets": 1063,
+      "exp_size": 4.403878583473862,
+      "first": "carse",
+      "p_le3": 0.44814502529510963,
+      "p_le4_adaptive_third": null,
+      "second": "doilt",
+      "worst": 17
+    },
+    {
+      "buckets": 1063,
+      "exp_size": 4.912310286677909,
+      "first": "corse",
+      "p_le3": 0.44814502529510963,
+      "p_le4_adaptive_third": null,
+      "second": "daint",
+      "worst": 24
+    },
+    {
+      "buckets": 1063,
+      "exp_size": 4.903878583473862,
+      "first": "cruet",
+      "p_le3": 0.44814502529510963,
+      "p_le4_adaptive_third": null,
+      "second": "slain",
+      "worst": 23
+    },
+    {
+      "buckets": 1063,
+      "exp_size": 5.036256323777403,
+      "first": "soare",
+      "p_le3": 0.44814502529510963,
+      "p_le4_adaptive_third": null,
+      "second": "clipt",
+      "worst": 27
+    },
+    {
+      "buckets": 1063,
+      "exp_size": 4.643338954468803,
+      "first": "trice",
+      "p_le3": 0.44814502529510963,
+      "p_le4_adaptive_third": null,
+      "second": "sloan",
+      "worst": 23
+    },
+    {
+      "buckets": 1062,
+      "exp_size": 4.840640809443507,
+      "first": "carne",
+      "p_le3": 0.4477234401349072,
+      "p_le4_adaptive_third": null,
+      "second": "doilt",
+      "worst": 21
+    },
+    {
+      "buckets": 1062,
+      "exp_size": 4.865935919055649,
+      "first": "carol",
+      "p_le3": 0.4477234401349072,
+      "p_le4_adaptive_third": null,
+      "second": "neist",
+      "worst": 29
+    },
+    {
+      "buckets": 1062,
+      "exp_size": 4.722596964586846,
+      "first": "crate",
+      "p_le3": 0.4477234401349072,
+      "p_le4_adaptive_third": null,
+      "second": "loins",
+      "worst": 23
+    },
+    {
+      "buckets": 1062,
+      "exp_size": 5.462057335581788,
+      "first": "plast",
+      "p_le3": 0.4477234401349072,
+      "p_le4_adaptive_third": null,
+      "second": "rince",
+      "worst": 34
+    },
+    {
+      "buckets": 1062,
+      "exp_size": 4.912310286677909,
+      "first": "slant",
+      "p_le3": 0.4477234401349072,
+      "p_le4_adaptive_third": null,
+      "second": "cried",
+      "worst": 26
+    },
+    {
+      "buckets": 1062,
+      "exp_size": 5.146711635750422,
+      "first": "sorel",
+      "p_le3": 0.4477234401349072,
+      "p_le4_adaptive_third": null,
+      "second": "paint",
+      "worst": 33
+    },
+    {
+      "buckets": 1061,
+      "exp_size": 4.9106239460370995,
+      "first": "caret",
+      "p_le3": 0.44730185497470487,
+      "p_le4_adaptive_third": null,
+      "second": "loins",
+      "worst": 28
+    },
+    {
+      "buckets": 1061,
+      "exp_size": 5.070826306913997,
+      "first": "crane",
+      "p_le3": 0.44730185497470487,
+      "p_le4_adaptive_third": null,
+      "second": "sluit",
+      "worst": 31
+    }
+  ]
+}

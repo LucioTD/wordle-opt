@@ -1,0 +1,23 @@
+{
+  "against": "full",
+  "dist": {
+    "avg": 3.517706576728499,
+    "fail": 0,
+    "n": 2372,
+    "p_3or4": 0.8806913996627319,
+    "p_le3": 0.5,
+    "p_le4": 0.934654300168634,
+    "solved_in": {
+      "1": 0,
+      "2": 128,
+      "3": 1058,
+      "4": 1031,
+      "5": 140,
+      "6": 15
+    }
+  },
+  "hard": true,
+  "hard_violations": 0,
+  "misses": [],
+  "tree": "tree_full_expected-hard.json"
+}
